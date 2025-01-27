@@ -1,0 +1,6 @@
+#clip-path {
+    height: 40em;
+    width: 40em;
+    background: url("https://www.wbcsd.org/wp-content/uploads/2023/10/Accelerating-business-along-the-road-to-a-nature-positive-future_i1140.jpg");
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
